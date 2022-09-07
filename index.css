@@ -1,0 +1,89 @@
+body {
+    background: #0d192c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1 {
+    color: #ffffff;
+    font-size: 20px;
+    width: 302px;
+    height: 28px;
+    display: flex;
+  }
+  p {
+    display: flex;
+    justify-content: start;
+    color: #8bacd9;
+    font-size: 18px;
+    width: 302px;
+  }
+  .card-conteiner {
+    width: 350px;
+    background: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    padding: 24px;
+    font-weight: 300px;
+  }
+  .card img {
+    max-width: 350px;
+    border-radius: 8px;
+  }
+  
+  .jules img {
+    width: 33px;
+    height: 33px;
+  }
+  .span1 {
+    size: 16px;
+    color: #8bacd9;
+    padding: 16px;
+  }
+  .span2 a {
+    size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .img004 {
+    width: 75px;
+    height: 15px;
+  }
+  .day3 {
+    width: 73px;
+    height: 15px;
+  }
+  .rectangel {
+    width: 320px;
+    height: 1px;
+  }
+  .jules {
+    margin-top: 16px;
+    display: flex;
+    align-items: center;
+  }
+  hr {
+    border: none;
+    height: 1px;
+    background-color: #2e405a;
+  }
+  .eth-box {
+    display: flex;
+    justify-content: space-between;
+  }
+  .eth004 {
+    color: #00fff8;
+    padding-left: 7px;
+  }
+  .day3left {
+    color: #8bacd9;
+  }
+  .eth-smallbox {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .clok {
+    transform: translate(-10%, 10%);
+  }
+  
